@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/NetsTechCloudOps/kchri-test/_apis/build/status/kchri-nets.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/NetsTechCloudOps/kchri-test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
